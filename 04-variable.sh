@@ -2,8 +2,8 @@
 
 #declaring variable
 
-PERSON1=Radha
-PERSON2=Lalitha
+PERSON1=$1  
+PERSON2=$2
 
 #reffering variable
 
