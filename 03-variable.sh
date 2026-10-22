@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#declaring variable
+#declaring variable  (if you want yo do changes in code you have to change here it will autometically reflected everywhare)
 
 PERSON1=Ramana #no space between = and value
 PERSON2=Sudha

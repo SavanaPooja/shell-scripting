@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#declaring variable
+#declaring variable at the top of the code
 
-PERSON1=$1  
-PERSON2=$2
+PERSON1=$4  
+PERSON2=$5
 
 #reffering variable
 
