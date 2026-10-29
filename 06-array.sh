@@ -1,6 +1,6 @@
 #!bin/bash
 
-Movies("Aarya" "subramanyam" "bittu")
+Movies ("Aarya" "subramanyam" "bittu")
 
 echo "first movie is: ${Movies[0]}"
 echo "third movie is: ${Movies[2]}"
